@@ -17,7 +17,7 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<junit.version>4.12</junit.version>
 		<mockito.version> 1.10.19 </mockito.version>
-		<mysql.version> 8.0.18 </mysql.version>
+		<mysql.version>8.0.28</mysql.version>
 		
 	</properties>
 
